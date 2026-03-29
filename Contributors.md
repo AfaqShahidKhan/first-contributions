@@ -1,7 +1,9 @@
 # Contributors
+- [Devansh jani](https://github.com/DEV1208)
 [sejal wattamwar](https://github.com/sejal88944)
 -[Arul Cornelious](https://github.com/Arul1998)
 -[Divyanshu Kumar](https://github.com/dgiitm)
+- [Temesgen Geta] (https://github.com/nigusmamo)
 - [chandra kireeti](https://github.com/kireetikotturu)
 - - [Rahul Chaube](https://github.com/Rahulchaube1)
 - [Luca-Python](https://github.com/luca-python)
@@ -33,6 +35,7 @@ Alicexxxx
 - [Norman Glad](https://github.com/norman-glad)
 - [Chirag Gowda](https://github.com/chirag249)
 - - [Smaran](https://github.com/smaran9)
+- [Mitali Mehta](https://github.com/Mitalimehta02)
 - [Aryaman Kummamuru](https://github.com/23f3003961)
 - [CristyanVessimo](https://github.com/CristyanVessimo)
 - [Adeola Ajiboso](https://github.com/Ajiboso-Adeola/)
@@ -46,6 +49,7 @@ Alicexxxx
 - [Jane Doe]
 - [Biruk]
 - [Prakhyath Bandaluppi](https://github.com/prakhyath1501)
+[Parvathi Supreeth](https://github.com/parvathisupreeth)
 - [Laureano](https://github.com/Staindek)
 
 - [Kartik Borse](https://github.com/Kartik-borse)
@@ -1423,6 +1427,7 @@ Rithvik
 - [Shahid Malik](https://github.com/SHAHID-glitch)
 - [ShaiQ Shah](https://github.com/shahshaiq)
 - [Shaj2311](https://github.com/Shaj2311)
+- Ume
 - [Shakthi Lakshmanan V](https://github.com/Shakthi-lakshmanan-2006)
 - [Shalu Tiwari](https://github.com/tshalu63)
 - [Shamil T P](https://github.com/shamil-tp)
@@ -2235,6 +2240,7 @@ Merjen Amanmuradova
 - [Sanjeev Uppu](https://github.com/Sanjeev-Uppu)
 - Yaroslav Fashevskyi
 - [Lokagagan K S] (https://github.com/24f3004113)
+-jjjj
 - [24f2000838](https://github.com/24f2000838)
 -[Harsh Palas](https://github.com/harshpalas)
 - [oxtknight](https://github.com/oxtknight)
@@ -2297,3 +2303,9 @@ Merjen Amanmuradova
 - Lipika Saravanan
 - FIRST ONE
 - [minirang](https://github.com/minirang)
+- [Pratiksha Bade](https://github.com/pratikshabade09)
+- [Karavind Kannaa V S](https://github.com/23f2000091)
+-[Aniruddh Khasanis](https://github.com/Anii109)
+-[Mrinal Kadam](https://github.com/mrinal97-tech)
+- [SteveLuo](https://github.com/Saudade77)
+- [Waqar Wani](https://github.com/Waqar-Wani)
